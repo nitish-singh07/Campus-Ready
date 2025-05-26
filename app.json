@@ -20,7 +20,8 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.naazix.campusready"
     },
     "web": {
       "favicon": "./assets/favicon.png"
